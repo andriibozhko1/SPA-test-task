@@ -10,7 +10,6 @@ export default class CardViewer extends Component {
   }
 
   render() {        
-    console.log(this.person)
     if(this.person) {
       return (
         <div className="CardViewer">

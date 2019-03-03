@@ -30,8 +30,8 @@ export default class App extends Component {
     return (           
       <div>
         <Switch>
-          <Route exact path="/" render={() => <CardList data={this.state.data} getPersonById={this.getPersonById}/>} />
-          <Route path="/:id" render={(props) => <CardViewer {...props} getPersonById={this.getPersonById}/>} />        
+          <Route exact path={process.env.PUBLIC_URL + '/'} render={() => <CardList data={this.state.data} getPersonById={this.getPersonById}/>} />
+          <Route path={process.env.PUBLIC_URL + '/:id'} render={(props) => <CardViewer {...props} getPersonById={this.getPersonById}/>} />        
         </Switch>
       </div>
     );
