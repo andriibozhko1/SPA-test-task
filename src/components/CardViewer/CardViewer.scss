@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Barlow|Francois+One');
 
+
 .CardViewer {
   width: 60%;
   min-height: 500px;
@@ -31,6 +32,7 @@
     margin: 10px;
   }
 
+  
   &__point {
     color: #2e859e;
     font-weight: bold;
@@ -62,5 +64,29 @@
 
   &__personal-information-friends {
     margin: 0;
+  }
+}
+
+.btn-to-back {
+  box-shadow: 0px 0px 10px silver;
+  border-radius: 10px;
+  font-family: 'Francois One', sans-serif;    
+  background: #fff;
+  position: absolute;
+  padding: 20px;
+  font-size: 30px;
+  top: 5%;
+  left: 5%;
+  cursor: pointer;
+  transition: .3s;
+  
+  &-link {
+    color: #000;
+  }
+
+  &:hover {
+    box-shadow: 0px 0px 10px #2e859e;
+    background: #2e859e;
+    color: #fff;
   }
 }

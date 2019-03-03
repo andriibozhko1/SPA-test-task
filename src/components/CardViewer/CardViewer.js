@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-// import Loader from '../Loader/Loader'
+import { Link } from "react-router-dom";
 import './CardViewer.scss';
 
 export default class CardViewer extends Component {
@@ -9,10 +9,11 @@ export default class CardViewer extends Component {
       return person
   }
 
-  render() {        
-    console.log(this.person)
+  render() {         
     if(this.person) {
       return (
+      <>
+       <Link className="btn-to-back-link" to={'/'}><div className="btn-to-back">Back</div></Link>
         <div className="CardViewer">
           <div className="CardViewer__title">
             <span>{this.person.name.first} {this.person.name.last}</span>
@@ -52,6 +53,7 @@ export default class CardViewer extends Component {
             </ul>
           </div>
         </div>
+      </>
       );
     } else {
       return (
