@@ -1,13 +1,13 @@
 {
-  "main.css": "/SPA-test-task/static/css/main.67d59a94.chunk.css",
-  "main.js": "/SPA-test-task/static/js/main.883effe6.chunk.js",
-  "main.js.map": "/SPA-test-task/static/js/main.883effe6.chunk.js.map",
+  "main.css": "/SPA-test-task/static/css/main.b47af6d1.chunk.css",
+  "main.js": "/SPA-test-task/static/js/main.312c9e34.chunk.js",
+  "main.js.map": "/SPA-test-task/static/js/main.312c9e34.chunk.js.map",
   "runtime~main.js": "/SPA-test-task/static/js/runtime~main.949db026.js",
   "runtime~main.js.map": "/SPA-test-task/static/js/runtime~main.949db026.js.map",
-  "static/js/2.f7865a68.chunk.js": "/SPA-test-task/static/js/2.f7865a68.chunk.js",
-  "static/js/2.f7865a68.chunk.js.map": "/SPA-test-task/static/js/2.f7865a68.chunk.js.map",
+  "static/js/2.f74c871e.chunk.js": "/SPA-test-task/static/js/2.f74c871e.chunk.js",
+  "static/js/2.f74c871e.chunk.js.map": "/SPA-test-task/static/js/2.f74c871e.chunk.js.map",
   "index.html": "/SPA-test-task/index.html",
-  "precache-manifest.d10af19d287db54f2ccd1bda916da994.js": "/SPA-test-task/precache-manifest.d10af19d287db54f2ccd1bda916da994.js",
+  "precache-manifest.4ca831fbdb84b1a8ff3336bae88067ef.js": "/SPA-test-task/precache-manifest.4ca831fbdb84b1a8ff3336bae88067ef.js",
   "service-worker.js": "/SPA-test-task/service-worker.js",
-  "static/css/main.67d59a94.chunk.css.map": "/SPA-test-task/static/css/main.67d59a94.chunk.css.map"
+  "static/css/main.b47af6d1.chunk.css.map": "/SPA-test-task/static/css/main.b47af6d1.chunk.css.map"
 }
