@@ -2,6 +2,7 @@
   "name": "spa-test-task",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://andriibozhko1.github.io/SPA-test-task/",
   "dependencies": {
     "node-sass": "^4.11.0",
     "react": "^16.8.3",
