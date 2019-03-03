@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.67d59a94.chunk.css",
-  "main.js": "/static/js/main.883effe6.chunk.js",
-  "main.js.map": "/static/js/main.883effe6.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.f7865a68.chunk.js": "/static/js/2.f7865a68.chunk.js",
-  "static/js/2.f7865a68.chunk.js.map": "/static/js/2.f7865a68.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.8702f7cf3d4b08b1fb8368b6348bba3e.js": "/precache-manifest.8702f7cf3d4b08b1fb8368b6348bba3e.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.67d59a94.chunk.css.map": "/static/css/main.67d59a94.chunk.css.map"
+  "main.css": "/SPA-test-task/static/css/main.67d59a94.chunk.css",
+  "main.js": "/SPA-test-task/static/js/main.883effe6.chunk.js",
+  "main.js.map": "/SPA-test-task/static/js/main.883effe6.chunk.js.map",
+  "runtime~main.js": "/SPA-test-task/static/js/runtime~main.949db026.js",
+  "runtime~main.js.map": "/SPA-test-task/static/js/runtime~main.949db026.js.map",
+  "static/js/2.f7865a68.chunk.js": "/SPA-test-task/static/js/2.f7865a68.chunk.js",
+  "static/js/2.f7865a68.chunk.js.map": "/SPA-test-task/static/js/2.f7865a68.chunk.js.map",
+  "index.html": "/SPA-test-task/index.html",
+  "precache-manifest.d10af19d287db54f2ccd1bda916da994.js": "/SPA-test-task/precache-manifest.d10af19d287db54f2ccd1bda916da994.js",
+  "service-worker.js": "/SPA-test-task/service-worker.js",
+  "static/css/main.67d59a94.chunk.css.map": "/SPA-test-task/static/css/main.67d59a94.chunk.css.map"
 }
