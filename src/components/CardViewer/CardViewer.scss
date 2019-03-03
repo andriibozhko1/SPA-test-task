@@ -12,10 +12,16 @@
   &__title {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     border-bottom: 1px solid #f5f5f5;
     padding: 20px;
     font-size: 47px;
     font-family: 'Francois One', sans-serif;    
+    
+    &-number {
+      font-size: 29px;
+      color: #2e859e;
+    }
   }
 
   &__about {
@@ -36,5 +42,25 @@
     font-weight: bold;
     color: red;
     font-size: 27px;
+  }
+
+  &__personal-information-list {
+    padding: 0;
+    margin: 0;
+  }
+  &__personal-information-item {
+    border-bottom: 1px solid #f5f5f5;
+    padding: 10px;
+    font-size: 20px;
+    list-style: none;
+
+    &-point {
+      color: #2e859e;
+      font-weight: bold;      
+    }
+  }
+
+  &__personal-information-friends {
+    margin: 0;
   }
 }

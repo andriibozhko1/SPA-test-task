@@ -28,12 +28,12 @@ export default class App extends Component {
 
   render() {
     return (           
-      <div>
+      <>
         <Switch>
           <Route exact path="/" render={() => <CardList data={this.state.data} getPersonById={this.getPersonById}/>} />
           <Route path="/:id" render={(props) => <CardViewer {...props} getPersonById={this.getPersonById}/>} />        
         </Switch>
-      </div>
+      </>
     );
   }
 } 

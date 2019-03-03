@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://andriibozhko1.github.io/SPA-test-task/",
   "dependencies": {
-    "node-sass": "^4.11.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-router-dom": "^4.3.1",
@@ -24,5 +23,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
 }
